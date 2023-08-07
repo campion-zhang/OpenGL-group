@@ -1,0 +1,8 @@
+#修改本文件来调整各用例权重，权重范围是1-20，默认为10
+boing 8
+cineshader 14
+depth 6
+instance 11  
+material 11
+msaa 7 
+terrain 12 
