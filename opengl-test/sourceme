@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/user/user/mesa-22.1.2/build/mesa-output/lib64/

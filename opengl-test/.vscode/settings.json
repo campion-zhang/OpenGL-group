@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "glfw3.h": "c",
+        "stdio.h": "c",
+        "glad.h": "c",
+        "xf86drmmode.h": "c",
+        "xf86drm.h": "c",
+        "unistd.h": "c",
+        "fcntl.h": "c",
+        "drm.h": "c",
+        "drm_mode.h": "c"
+    }
+}
