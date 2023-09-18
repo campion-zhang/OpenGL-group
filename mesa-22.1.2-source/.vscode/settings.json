@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "sw_winsys.h": "c",
+        "lp_jit.h": "c"
+    }
+}
